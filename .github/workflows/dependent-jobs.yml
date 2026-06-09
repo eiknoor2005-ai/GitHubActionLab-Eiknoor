@@ -3,10 +3,10 @@ name: Workflow 1 - Dependent Jobs Workflow
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
-
+    
   build:
     runs-on: ubuntu-latest
 
@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - name: Start Testing
-        run: echo "tests for the application..."
+        run: echo "Running tests for the application..."
 
       - name: Simulate Testing
         run: sleep 5
