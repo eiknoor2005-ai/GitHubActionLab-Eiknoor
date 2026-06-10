@@ -8,7 +8,7 @@ For this lab, I created two GitHub Actions workflows to learn how automated work
 
 ## Workflow 1 - Dependent Jobs Workflow
 
-The purpose of this workflow is to show how jobs can depend on one another using the `needs` keyword.
+The purpose of this workflow is to show how jobs can depend on one another using the needs keyword.
 
 This workflow runs whenever changes are pushed to the master branch.
 
