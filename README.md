@@ -71,4 +71,4 @@ To fix the problem, I updated the workflow files to use the correct branch name 
 
 ## Conclusion
 
-Overall, this lab gave me hands-on experience with GitHub Actions and helped me understand workflow automation, job dependencies, pull requests, and multi-platform testing. It was a useful introduction to CI/CD concepts and automated development workflows.
+This lab provided practical experience with GitHub Actions, workflow automation, job dependencies, pull request workflows, and multi-platform testing across Ubuntu, Windows, and macOS environments.
